@@ -22,6 +22,7 @@ $films = [
 //CREO L'ARRAY DI SERIE TV
 
 $series = [
+    
     new TVSeries('Casa the papel', 8, 'Espagnol', 'https://image.tmdb.org/t/p/w342//reEMJA1uzscCbkpeRJeTT2bjqUp.jpg', 5),
 
     new TVSeries('Breaking bad ', 8, 'English', 'https://image.tmdb.org/t/p/w342//ApitDfnYDwFNOPfyVuhW5ElWzhe.jpg', 5),
